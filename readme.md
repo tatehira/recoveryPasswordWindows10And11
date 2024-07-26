@@ -1,5 +1,4 @@
-    <h1>Como recuperar senha do Windows</h1>
-    
+<h1>Como recuperar senha do Windows</h1>
     <h2>Passos:</h2>
     <ol>
         <li>Reiniciar o Windows pressionando SHIFT</li>
@@ -18,7 +17,7 @@
         <li>Iniciar windows</li>
     </ol>
 
-    <h2>Steps:</h2>
+ <h2>Steps:</h2>
     <ol>
         <li>Restart Windows by pressing SHIFT</li>
         <li>Go to Troubleshoot and CMD</li>

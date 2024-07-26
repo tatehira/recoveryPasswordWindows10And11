@@ -4,13 +4,13 @@
         <li>Reiniciar o Windows pressionando SHIFT</li>
         <li>Ir para Solução de Problemas e CMD</li>
         <li>Após CMD aberto, localizar qual disco está instalado o Windows, exemplo: C, D</li>
-        <li>Após souber qual disco selecionado, digite-o "C:"</li>
+        <li>Após souber qual disco selecionado, digite-o "´C:´"</li>
         <li>cd \windows\system32\</li>
         <li>Vamos fazer backup do Utilman.exe<br>
-            -> ren Utilman.exe Utilman.exe_bkp
+            ´ren Utilman.exe Utilman.exe_bkp´
         </li>
         <li>Mover o CMD pro lugar do utilman<br>
-            -> ren cmd.exe Utilman.exe
+            ´ren cmd.exe Utilman.exe´
         </li>
         <li>Reiniciar o Windows e clicar no ícone do utilman, após abrir o CMD</li>
         <li>control userpasswords2 > Adicionar nova senha > deixar vazio</li>
